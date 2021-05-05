@@ -1,3 +1,17 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+
+**Table of Contents**
+
+- [GRANDstack Starter - GraphQL API](#grandstack-starter---graphql-api)
+  - [Quick Start](#quick-start)
+  - [Configure](#configure)
+  - [Configuring Auth0 for GRANDstack - GraphQL.](#configuring-auth0-for-grandstack---graphql)
+  - [Deployment](#deployment)
+  - [Seeding The Database](#seeding-the-database)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 # GRANDstack Starter - GraphQL API
 
 ## Quick Start
@@ -37,7 +51,6 @@ Note that grand-stack-starter does not currently bundle a distribution of Neo4j.
 ## Configuring Auth0 for GRANDstack - GraphQL.
 
 Please read this [write-up](auth0-howto.md) for more information on configuring `Auth0` for GRANDStack - GraphQL.
-
 
 ## Deployment
 
