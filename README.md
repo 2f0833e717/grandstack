@@ -19,6 +19,18 @@
 # how to start guide
 > <https://github.com/grand-stack/grand-stack-starter>
 
+```bash
+npm run seedDb
+```
+or
+```bash
+docker-compose up -d
+```
+or
+```bash
+docker-compose run api npm run seedDb
+```
+
 ## fix initial start guide
 ```bash
 # vi package.json
