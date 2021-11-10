@@ -4,7 +4,7 @@
     "eslint": "8.1.0",
     "eslint-config-prettier": "8.3.0",
     "eslint-plugin-prettier": "4.0.0",
-    "eslint-plugin-react": "7.26.1",
+    "eslint-plugin-react": "7.27.0",
     "execa": "5.1.1",
     "grandstack": "0.1.7",
     "dotenv": "10.0.0",
