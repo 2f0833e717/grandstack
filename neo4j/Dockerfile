@@ -1,4 +1,4 @@
-FROM neo4j:4.4.11
+FROM neo4j:4.4.12
 
 ENV NEO4J_AUTH=neo4j/letmein \
     APOC_VERSION=3.5.0.5 \
