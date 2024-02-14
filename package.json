@@ -8,7 +8,7 @@
     "execa": "8.0.1",
     "grandstack": "0.1.7",
     "dotenv": "16.4.1",
-    "husky": "9.0.10",
+    "husky": "9.0.11",
     "lint-staged": "15.2.2",
     "prettier": "3.2.5",
     "prettier-eslint-cli": "8.0.1"
