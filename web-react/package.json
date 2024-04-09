@@ -24,7 +24,7 @@
     "now-build": "react-scripts build"
   },
   "devDependencies": {
-    "http-proxy-middleware": "2.0.6"
+    "http-proxy-middleware": "3.0.0"
   },
   "browserslist": [
     ">0.2%",
