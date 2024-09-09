@@ -4,8 +4,8 @@
   "description": "React app for GRANDstack Starter",
   "dependencies": {
     "@apollo/client": "3.10.8",
-    "@mui/material": "5.16.7",
-    "@mui/icons-material": "5.16.7",
+    "@mui/material": "6.0.2",
+    "@mui/icons-material": "6.0.2",
     "classnames": "2.5.1",
     "graphql": "16.9.0",
     "moment": "2.30.1",
