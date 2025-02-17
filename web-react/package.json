@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "description": "React app for GRANDstack Starter",
   "dependencies": {
-    "@apollo/client": "3.11.10",
+    "@apollo/client": "3.13.1",
     "@mui/material": "6.4.4",
     "@mui/icons-material": "6.4.4",
     "classnames": "2.5.1",
